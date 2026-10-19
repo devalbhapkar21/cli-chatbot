@@ -1,0 +1,8 @@
+{
+  "system_prompt": "You are a helpful, concise assistant.",
+  "model": "gpt-5.4-nano",
+  "max_completion_tokens": 2000,
+  "timeout_seconds": 30,
+  "max_retries": 3,
+  "retry_base_delay_seconds": 2
+}
